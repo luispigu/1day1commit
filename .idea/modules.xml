@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1day1commit.iml" filepath="$PROJECT_DIR$/1day1commit.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgorithmSet/AlgorithmSet.iml" filepath="$PROJECT_DIR$/AlgorithmSet/AlgorithmSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HubotScript/HubotScript.iml" filepath="$PROJECT_DIR$/HubotScript/HubotScript.iml" />
     </modules>
   </component>
 </project>
